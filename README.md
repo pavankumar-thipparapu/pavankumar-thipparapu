@@ -65,32 +65,55 @@ I also work with supporting enterprise technologies including **F5 BIG-IP**, **C
 | Automation | Python, PowerShell, CSV processing, IP/CIDR validation, repeatable engineering checks |
 | Operations | Incident troubleshooting, change implementation, runbooks, diagrams, and RCA support |
 
-## Portfolio Projects
+## Technical Portfolio
 
-### 🔐 Palo Alto Security Policy Design Lab
+### 🔐 Palo Alto Network Security
 
-A sanitized reference project for structuring Palo Alto security policies, address and service objects, App-ID controls, NAT, logging, validation, and rule-cleanup workflows.
+Enterprise-focused reference material covering security-policy architecture, App-ID, NAT, routing, VPN, high availability, logging, security profiles, rulebase optimization, and troubleshooting.
 
-**Repository:** `palo-alto-security-policy-design-lab`
+**Repository:** [palo-alto-network-security](https://github.com/pavankumar-thipparapu/palo-alto-network-security)
 
-### ☁️ Azure Hybrid Networking and Cloud Security
+### ☁️ Azure Cloud Networking
 
-Reference architectures for Azure hub-and-spoke, Virtual WAN, site-to-site VPN, Azure Firewall, Private Endpoints, Private DNS, routing, segmentation, and secure on-premises integration.
+Reference architectures and technical guides covering VNets, hub-and-spoke, Azure Virtual WAN, VPN Gateway, routing, Private Endpoints, Private DNS, and hybrid-cloud connectivity.
 
-**Repository:** `azure-hybrid-networking-cloud-security`
+**Repository:** [azure-cloud-networking](https://github.com/pavankumar-thipparapu/azure-cloud-networking)
 
-### 🧭 Enterprise Network Troubleshooting Runbooks
+### 🛡️ Azure Cloud Security
 
-Repeatable troubleshooting workflows for Palo Alto, Azure networking, F5, Cisco switching, Cisco WLC, Meraki, DNS, VPN, wireless, and WAN connectivity.
+Cloud-security designs covering Azure Firewall, NSGs, ASGs, Private Link, segmentation, Zero Trust, logging, Azure Policy, RBAC, and secure PaaS connectivity.
 
-**Repository:** `enterprise-network-troubleshooting-runbooks`
+**Repository:** [azure-cloud-security](https://github.com/pavankumar-thipparapu/azure-cloud-security)
 
-### 🛠️ Network and Cloud Automation Toolkit
+### 🌐 F5 BIG-IP Application Delivery
 
-Small Python and PowerShell utilities for IP addressing, CIDR validation, firewall-object preparation, route comparison, and structured network-data processing.
+Technical references covering virtual servers, pools, health monitors, SSL profiles, SNAT, persistence, application traffic flow, and troubleshooting.
 
-**Repository:** `network-cloud-automation-toolkit`
+**Repository:** [f5-bigip-application-delivery](https://github.com/pavankumar-thipparapu/f5-bigip-application-delivery)
 
+### 🔀 Cisco Enterprise Networking
+
+Enterprise routing and switching references covering VLANs, trunks, spanning tree, EtherChannel, routing, redundancy, access control, and troubleshooting.
+
+**Repository:** [cisco-enterprise-networking](https://github.com/pavankumar-thipparapu/cisco-enterprise-networking)
+
+### 📶 Cisco Wireless and WLC
+
+Wireless networking references covering WLC architecture, AP registration, WLANs, VLAN mapping, authentication, roaming, RF fundamentals, and client troubleshooting.
+
+**Repository:** [cisco-wireless-wlc](https://github.com/pavankumar-thipparapu/cisco-wireless-wlc)
+
+### 📡 Cisco Meraki Networking
+
+Meraki switching and wireless references covering Dashboard operations, VLANs, SSIDs, policies, monitoring, traffic analysis, and troubleshooting.
+
+**Repository:** [cisco-meraki-networking](https://github.com/pavankumar-thipparapu/cisco-meraki-networking)
+
+### 🛠️ Network Security Automation
+
+Python and PowerShell tools for CIDR validation, firewall-object generation, route comparison, configuration review, and repeatable network checks.
+
+**Repository:** [network-security-automation](https://github.com/pavankumar-thipparapu/network-security-automation)
 ## Current Development
 
 - Advancing Palo Alto firewall design, policy optimization, and troubleshooting
